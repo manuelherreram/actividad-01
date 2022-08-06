@@ -32,7 +32,7 @@ if (pc == jugador) {
 } else if (jugador == 3 && pc == 2) {
   alert("GANASTE")
 } else {
-  alert("Perdedor")
+  alert("PERDEDOR")
 }
 // Nueva funcionalidad 
 // Nueva funcionalidad 2.0
