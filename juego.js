@@ -35,4 +35,5 @@ if (pc == jugador) {
   alert("Perdedor")
 }
 // Nueva funcionalidad 
-// Nueva funcionalidad 2
+// Nueva funcionalidad 2.0
+// extra
