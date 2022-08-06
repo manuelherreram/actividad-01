@@ -34,4 +34,5 @@ if (pc == jugador) {
 } else {
   alert("Perdedor")
 }
-// Nueva funcionalidad
+// Nueva funcionalidad 
+// Nueva funcionalidad 2
